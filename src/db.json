@@ -1,0 +1,104 @@
+{
+  "projectDataa": {
+    "htmlandcss": {
+      "title": "HTML & CSS",
+      "blogs": [
+        {
+          "id": 1,
+          "image": "https://rb.gy/2wkxhj",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        },
+        {
+          "id": 2,
+          "image": "https://rb.gy/vjb755",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        },
+        {
+          "id": 3,
+          "image": "https://rb.gy/2wkxhj",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        }
+      ]
+    },
+    "javascript": {
+      "title": "Javascript",
+      "blogs": [
+        {
+          "id": 1,
+          "image": "https://rb.gy/dt7nf5",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        },
+        {
+          "id": 2,
+          "image": "https://rb.gy/dw62th",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        }
+      ]
+    },
+    "reactandmui": {
+      "title": "React & MUI",
+      "blogs": [
+        {
+          "id": 1,
+          "image": "https://i.pinimg.com/564x/2f/58/9f/2f589f1ebf2e55f448b0faa4c538878f.jpg",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        },
+        {
+          "id": 2,
+          "image": "https://media.istockphoto.com/id/1359273311/photo/horizontal-no-people-shot-of-modern-psychologist-office-interior-in-gray-and-brown-colors.jpg?s=612x612&w=is&k=20&c=jkdNKjD6Zb1bNovzGMA6tH7R5bmMOwt7UtvVe6DPRK0=",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        },
+        {
+          "id": 3,
+          "image": "https://cdn.dribbble.com/users/1955654/screenshots/5855623/media/a8581673e79308890907632e7a865cf9.png",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        }
+      ]
+    },
+    "nodeandexpress": {
+      "title": "Node & Express",
+      "blogs": [
+        {
+          "id": 1,
+          "image": "https://i.pinimg.com/564x/c6/38/b5/c638b5ba3c9f54fa35183287cae965a3.jpg",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        },
+        {
+          "id": 2,
+          "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/261640150.jpg?k=7297090d9e3ce92ebc83d8aa74f0cca6c188cb06e5d9a15f373fc8d52b18d1cb&o=&hp=1",
+          "title": "React Project",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur elit adipisicing . Ex tempore dolor in, accusantium laudantium accusamus.",
+          "url": "#",
+          "githuburl": "#"
+        }
+      ]
+    }
+  }
+}

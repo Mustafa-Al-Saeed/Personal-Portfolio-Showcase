@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --blue : #5dbcfc;
+    --border-color: #3f3f4666;
+    --DM-W-T: #f4f4f5;
+    --DM-G-T: #a1a1aa;
+    --DM-G-T2: #24252e;
+    --LM-B-C: #27272a;
+    --LM-B-C2:#fafafa;
+    --LM-B-C3:#52525b;
+}
+
+* {
+    box-sizing: border-box;
+    letter-spacing : 1px;
+}
+
+body {
+    background-color: #fafafa;
+}
+
+.dark {
+    background-color : #000000;
+}
+
+.active-article {
+    opacity : 1
+}
+
+.active-article-border {
+    
+}
